@@ -1,0 +1,22 @@
+*{
+    
+    
+    
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    height: 50vh;
+    margin-left: 25%;
+    margin-bottom: 50%;
+    background-color: green;
+    border-radius: 10%;
+    color: white;
+
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}
